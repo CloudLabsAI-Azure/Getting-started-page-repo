@@ -1,0 +1,13 @@
+[
+    {
+        "Name": "AI Legal Summit",
+        "Language": "English",
+        "BaseURL": "https://github.com/CloudLabsAI-Azure/AI-Agents-using-Microsoft-Frameworks",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Getting-started-page-repo/refs/heads/main/Instructions/getting-started-page-AI-Legal-Summit.md",
+                "Order": 1
+            }                     
+        ]
+    }
+]
