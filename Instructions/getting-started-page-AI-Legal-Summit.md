@@ -36,13 +36,17 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
 
    ![](./media/zoom-1106.png)
   
-## Let's Get Started with Azure Portal
+## Let's Get Started with M365 Portal
 
-1. On your virtual machine, click on the **Azure Portal** icon.
+1. On your virtual machine, click on the **Copilot Chat** icon.
 
-    ![](./media/azure-1.png)
+    ![](./media/m365-customlab-2.png)
 
-2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
+1. In the M365 portal, click on **Sign in** button.
+
+   ![](./media/m365-customlab-1.png)
+
+2. You'll see the **Sign into Microsoft** tab. Here, enter your credentials:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
@@ -54,15 +58,13 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
 
      ![](./media/azure-3.png)
 
-1. If prompted to stay signed in, you can click **No**.
+1. If prompted to stay signed in, you can click **Yes**.
 
-   ![Stay Signed in](./media/azure-4.png)     
+   ![Stay Signed in](./media/m365-customlab-3.png)
 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **Maybe later** to skip the tour.
+1. You will be redirected to the Microsoft 365 portal home page, as shown below:
 
-   ![](./media/azure-5.png)
-
-1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.  
+   ![Stay Signed in](./media/m365-customlab-4.png)
 
 ## 📁 Lab Artifacts
 
@@ -85,7 +87,3 @@ Learner Support Contacts:
 
 - Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
 - Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to embark on your Lab journey!
-
-![](./media/g11.png)
