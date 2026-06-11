@@ -64,6 +64,19 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.  
 
+## 📁 Lab Artifacts
+
+The lab artifacts required to complete the hands-on exercises have been preloaded on the Jump VM and can be accessed at:
+
+`C:\LabFiles\AI Legal Summit - June 12 Event`
+
+This directory contains all required files and resources for:
+
+- **Lab 01 Agent**
+- **Lab 02 Agent**
+
+![](./media/labfile.png)
+
 ## 📞 Support Contact
 
 The **CloudLabs support** team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
